@@ -119,22 +119,4 @@ body {
     font-family: 'Teko', sans-serif;
     font-size: 30px;
 }
-.contact-image {
-    margin: 0 auto;
-    width: 1200px;
-    height: 500px;
-    object-fit: contain;
-    box-shadow: 10px 10px 5px black;
-}
-.logo {
- margin: 0 auto;
-    width: 600px;
-    height: 600px;
-    object-fit: contain;
-}
-.logo-small {
- margin: 0 auto;
-    width: 75px;
-    height: 75px;
-    object-fit: contain;
-}
+
