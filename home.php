@@ -20,7 +20,7 @@
     <html>
     <head> <title> MOVIETASTIC|TOP 10 PICKS FOR THE WEEK </title> 
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kanit:800i|Oswald|Teko:600&display=swap" rel="stylesheet">
     </head>
     <body> 
     
