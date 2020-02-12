@@ -104,7 +104,7 @@ body {
     transition: transform .2s;
     box-shadow: 10px 10px 5px black;
 }
-.article-title:hover{transform: scale(1.05);}
+
 
 .article-content li{
     list-style-type: none;
