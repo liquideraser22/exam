@@ -60,10 +60,9 @@ body {
   .nav-menu li{
       text-decoration: none;
       display: inline;
-
       margin-right: 15px;
       padding: 4px 10px;
-      font-family: 'Press Start 2P', cursive;
+      font-family: 'Teko', sans-serif;
       font-size: 30px;
   }
 
