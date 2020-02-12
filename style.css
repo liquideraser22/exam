@@ -42,8 +42,8 @@ body {
 .brand {
     display: inline;
     color: #b31010;
-    text-shadow: 2px 4px 6px black;
-    font-family: 'PT Sans', sans-serif;
+    text-shadow: 1px 2px 3px black;
+    font-family: 'Kanit', sans-serif;
     font-size: 60px;
 }
  .nav {
