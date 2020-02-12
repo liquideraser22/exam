@@ -5,8 +5,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
     <head>
         <title>  MOVIETASTIC </title>
         <link rel="stylesheet" type="text/css" href="style.css">
-        <link rel="icon" href="img/favicon.png" type="image/gif">
-        <link href="https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Viga&display=swap" rel="stylesheet">
     </head>
     <body>
     <div class="wrapper">
