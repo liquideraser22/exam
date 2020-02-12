@@ -42,8 +42,8 @@ body {
 .brand {
     display: inline;
     color: #b31010;
-    text-shadow: 1px 1px 2px black;
-    font-family: 'Viga', sans-serif;
+    text-shadow: 2px 4px 6px black;
+    font-family: 'Open Sans', sans-serif;
     font-size: 60px;
 }
  .nav {
