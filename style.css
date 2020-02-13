@@ -5,19 +5,13 @@ a{
 a:link {
     color: #F4F5F5;
   }
-  
-  
-  a:visited {
+    a:visited {
     color: #F4F5F5;
   }
-  
-  
-  a:hover {
+    a:hover {
     color: #FFC906;
   }
-  
-
-  a:active {
+   a:active {
     color: #FFC906;
   }
 
@@ -78,13 +72,6 @@ body {
     padding-top: 5px;
     font-size: 30px;
 }
-.partner-image{
-
-    width: 600px;
-    height: 300px;
-    object-fit: contain;
-    box-shadow: 10px 10px 5px black;
-}
 #footer {
     margin-top: 50px;
     width: 100%;
@@ -104,8 +91,6 @@ body {
     transition: transform .2s;
     box-shadow: 10px 10px 5px black;
 }
-
-
 .article-content li{
     list-style-type: none;
     color: #F4F5F5;
