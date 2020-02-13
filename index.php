@@ -14,11 +14,11 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                         
                         <div class="nav">
                         <ul class="nav-menu"> 
-                        <li> <a href="index.php?loadnav=home"> HOME </a> </li>
-                        <li> <a href="index.php?loadnav=newmovies"> NEW MOVIES </a> </li>
-                        <li> <a href="index.php?loadnav=weekenders"> WEEKENDERS  </a> </li>
-                        <li> <a href="index.php?loadnav=spookynight"> SPOOKYNIGHT  </a> </li>
-                        <li> <a href="index.php?loadnav=datenight"> DATE NIGHT </a> </li>
+                        <li> <a href="index.php?loadnav=home"> HOME|</a> </li>
+                        <li> <a href="index.php?loadnav=newmovies"> NEW MOVIES| </a> </li>
+                        <li> <a href="index.php?loadnav=weekenders"> WEEKENDERS| </a> </li>
+                        <li> <a href="index.php?loadnav=spookynight"> SPOOKYNIGHT|  </a> </li>
+                        <li> <a href="index.php?loadnav=datenight"> DATE NIGHT| </a> </li>
                         </ul>
                         </div>
 
